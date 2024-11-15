@@ -2,21 +2,6 @@
 
 This repository contains a custom implementation of a dynamic array class, `Vector`, written in C++. The implementation features essential dynamic array operations, iterator support, and the ability to use templates for generalization.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## Features
-
 ### Basic Functionality
 - Dynamic resizing with capacity management.
 - Access and modify elements with bounds checking.
